@@ -1,5 +1,5 @@
 # Keylogger-CPP-
-Advance keylogger built using cpp
+Advance keylogger built using cpp.
 Can run on windows 7,8,8.1,10
 Records every keystroke(even function keys,special characters,numpad, everything)
 Records mouse clicks as well
